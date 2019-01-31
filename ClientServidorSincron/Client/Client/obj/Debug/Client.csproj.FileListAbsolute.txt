@@ -1,0 +1,32 @@
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Client\Client\bin\Debug\Client.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Client\Client\bin\Debug\Client.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Client\Client\obj\Debug\Client.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Client\Client\obj\Debug\Client.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\obj\Debug\Client.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\obj\Debug\Client.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\bin\Debug\Client.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\bin\Debug\Client.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\obj\Debug\Client.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\obj\Debug\Client.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\bin\Debug\Client.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\bin\Debug\Client.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\bin\Debug\Client.exe.config
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\bin\Debug\Client.exe
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\bin\Debug\Client.pdb
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.exe
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.pdb
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\bin\Debug\Client.exe.config
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\bin\Debug\Client.exe
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\bin\Debug\Client.pdb
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.exe
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Client\Client\obj\Debug\Client.pdb

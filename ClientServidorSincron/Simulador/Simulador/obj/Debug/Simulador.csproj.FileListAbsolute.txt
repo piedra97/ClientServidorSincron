@@ -1,0 +1,7 @@
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Simulador\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Simulador\Simulador\bin\Debug\Simulador.exe.config
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Simulador\Simulador\bin\Debug\Simulador.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Simulador\Simulador\bin\Debug\Simulador.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Simulador\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Simulador\Simulador\obj\Debug\Simulador.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Simulador\Simulador\obj\Debug\Simulador.pdb

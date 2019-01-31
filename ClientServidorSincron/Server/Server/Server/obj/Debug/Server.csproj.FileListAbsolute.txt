@@ -1,0 +1,32 @@
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\00_Teoria\Exemple síncron\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Roger\Dropbox\La Salle - 16_17\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\Roger\Dropbox\La Salle - 17_18\DAM - M9\UF3\01_Exercicis\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe.config
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\uesoporte20(PolPiedr\Downloads\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.pdb
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe.config
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.exe
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\bin\Debug\Server.pdb
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.exe
+F:\DAM\C#\ClientServidorSincron (1)\ClientServidorSincron\Server\Server\Server\obj\Debug\Server.pdb
